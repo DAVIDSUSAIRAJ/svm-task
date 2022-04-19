@@ -1,0 +1,44 @@
+.search {
+  width: 250px;
+  padding: 5px;
+  font-size: 17px;
+}
+
+.app-container {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* gap: 10px; */
+  padding: 1rem;
+}
+.new {
+  border: none;
+  outline: none;
+  background-color: #4285f4;
+  padding: 3px;
+  padding-right: 8px;
+  padding-left: 8px;
+  border-radius: 5px;
+  margin: 3px;
+  color: white;
+}
+table {
+  border-collapse: collapse;
+  width: 100vw;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: left;
+  padding: 4px;
+  font-size: 14px;
+}
+
+th {
+  background-color: rgb(197, 204, 207);
+}
+
+td {
+  background-color: rgb(227, 232, 235);
+  color: rgb(80, 79, 79);
+}
